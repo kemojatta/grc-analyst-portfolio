@@ -1,15 +1,16 @@
-# Kemo Jatta — GRC Analyst Portfolio
+# Kemo Jatta — IT Support Portfolio
 
-A standalone, responsive HTML portfolio with a distinctive ivory, forest green, and muted gold editorial design.
-
-## Preview
-Open `index.html` in a modern browser. The resume PDF is embedded under Resume and is also available to open or download.
+Open `index.html` in a browser to preview. The original resume is included as `Kemo-Jatta-IT-Support-Resume.pdf` and is embedded in the Resume section.
 
 ## Publish on GitHub Pages
-1. Create a new public GitHub repository, for example `kemo-jatta-grc-portfolio`.
-2. Upload `index.html` and the entire `assets` folder, preserving their paths.
-3. Go to repository Settings > Pages and choose Deploy from a branch, `main`, root `/`.
-4. Save and wait for GitHub Pages to show the site URL.
+1. Create a public GitHub repository.
+2. Upload `index.html` and `Kemo-Jatta-IT-Support-Resume.pdf` to the repository root.
+3. In Settings → Pages, select Deploy from a branch, main, root.
+4. Visit the published URL after deployment.
 
-## Edit
-Open `index.html` in VS Code or another plain-text editor. Update project statuses only after completing the work, and replace descriptions with accurate outcomes and links. The PDF contains personal contact details; review before publishing.
+## Editing
+Edit `index.html` with a text editor. Update the project cards as labs are completed. Current 'coming soon' items are proposals, not completed work.
+
+**Contact email note:** The uploaded resume lists kemo.jatta@ymail.com, while the website uses kemojatta149@gmail.com as previously supplied for the other portfolio websites. The PDF is unmodified.
+
+**Privacy:** Your original PDF includes a phone number and location. Review before publishing publicly.
