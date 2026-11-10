@@ -1,16 +1,7 @@
-# Kemo Jatta — IT Support Portfolio
+Kemo Jatta GRC Portfolio — corrected PDF paths
 
-Open `index.html` in a browser to preview. The original resume is included as `Kemo-Jatta-IT-Support-Resume.pdf` and is embedded in the Resume section.
+Upload BOTH index.html and Kemo-Jatta-GRC-Resume.pdf to the TOP LEVEL (root) of the GitHub repository. Do not upload the ZIP itself.
 
-## Publish on GitHub Pages
-1. Create a public GitHub repository.
-2. Upload `index.html` and `Kemo-Jatta-IT-Support-Resume.pdf` to the repository root.
-3. In Settings → Pages, select Deploy from a branch, main, root.
-4. Visit the published URL after deployment.
+GitHub: Settings > Pages > Deploy from a branch > main > /(root).
 
-## Editing
-Edit `index.html` with a text editor. Update the project cards as labs are completed. Current 'coming soon' items are proposals, not completed work.
-
-**Contact email note:** The uploaded resume lists kemo.jatta@ymail.com, while the website uses kemojatta149@gmail.com as previously supplied for the other portfolio websites. The PDF is unmodified.
-
-**Privacy:** Your original PDF includes a phone number and location. Review before publishing publicly.
+Check https://YOURUSERNAME.github.io/YOURREPO/Kemo-Jatta-GRC-Resume.pdf to test PDF accessibility.
